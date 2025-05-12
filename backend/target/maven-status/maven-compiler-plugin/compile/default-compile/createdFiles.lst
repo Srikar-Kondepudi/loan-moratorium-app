@@ -1,0 +1,12 @@
+com/loanmoratorium/repository/UserRepository.class
+com/loanmoratorium/controller/LoanController.class
+com/loanmoratorium/model/User.class
+com/loanmoratorium/model/LoanStatus.class
+com/loanmoratorium/service/LoanService.class
+com/loanmoratorium/model/UserRole.class
+com/loanmoratorium/repository/LoanRepository.class
+com/loanmoratorium/service/UserService.class
+com/loanmoratorium/controller/AuthController.class
+com/loanmoratorium/security/SecurityConfig.class
+com/loanmoratorium/model/Loan.class
+com/loanmoratorium/LoanMoratoriumApplication.class
